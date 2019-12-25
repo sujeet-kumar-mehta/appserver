@@ -1,0 +1,17 @@
+{
+  "promotion": [
+    {
+      "title": "Christmas Sticker",
+      "subtitle": "Enjoy the christmas wishes stickers",
+      "btn_text": "Update",
+      "btn_action": "Later"
+
+    },
+    {
+      "title": "Important Update",
+      "subtitle": "Update to the latest version",
+      "btn_text": "Update",
+      "btn_action": "Later"
+    }
+  ]
+}
