@@ -4,14 +4,16 @@
       "title": "Christmas Sticker",
       "subtitle": "Enjoy the christmas wishes stickers",
       "btn_text": "Update",
-      "btn_action": "Later"
+      "btn_action": "Later",
+      "promo_image":"collider.png"
 
     },
     {
       "title": "Important Update",
       "subtitle": "Update to the latest version",
       "btn_text": "Update",
-      "btn_action": "Later"
+      "btn_action": "Later",
+      "promo_image":"collider.png"
     }
   ]
 }
